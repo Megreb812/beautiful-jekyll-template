@@ -245,102 +245,11 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
 
 <style>
 
-.gs-section-01 {
-     background-color: #FFF8E7;
-     border: 3px double #8B7355;
-     padding: 20px;
-     margin: 20px 0;
-     border-radius: 5px;
-}
-
 .gs-section-01 h3 { 
-     color: #9B111E;
-     font-family: 'Georgia', serif;
-     border-bottom: 2px solid #C19A6B;
-     padding-bottom: 10px;
-}
+     color: red }
 
 .gs-section-01 p {
-     font-size: 18px;
-     color: #3D2817;
-     line-height: 1.6;
-}
-
-.gs-section-01 a {
-     color: #9B111E;
-     text-decoration: none;
-     border-bottom: 1px dotted #9B111E;
-}
-
-.gs-section-01 a:hover {
-     color: #CD7F32;
-     border-bottom: 1px solid #CD7F32;
-}
-
-.gs-section-02 {
-     background-color: #F5EBD7;
-     border: 3px double #8B4513;
-     padding: 20px;
-     margin: 20px 0;
-     border-radius: 5px;
-}
-
-.gs-section-02 h3 { 
-     color: #CD7F32;
-     font-family: 'Georgia', serif;
-     border-bottom: 2px solid #8B7355;
-     padding-bottom: 10px;
-     font-style: italic;
-}
-
-.gs-section-02 p {
-     font-size: 18px;
-     color: #4A3728;
-     line-height: 1.6;
-}
-
-.gs-section-02 a {
-     color: #8B4513;
-     text-decoration: none;
-     border-bottom: 1px dotted #8B4513;
-}
-
-.gs-section-02 a:hover {
-     color: #CD7F32;
-     border-bottom: 1px solid #CD7F32;
-}
-
-.gs-section-03 {
-     background-color: #FFF8E7;
-     border: 3px double #C19A6B;
-     padding: 20px;
-     margin: 20px 0;
-     border-radius: 5px;
-}
-
-.gs-section-03 h3 { 
-     color: #8B4513;
-     font-family: 'Georgia', serif;
-     border-bottom: 2px solid #D2B48C;
-     padding-bottom: 10px;
-     font-weight: bold;
-}
-
-.gs-section-03 p {
-     font-size: 18px;
-     color: #3D2817;
-     line-height: 1.6;
-}
-
-.gs-section-03 a {
-     color: #9B111E;
-     text-decoration: none;
-     border-bottom: 1px dotted #9B111E;
-}
-
-.gs-section-03 a:hover {
-     color: #CD7F32;
-     border-bottom: 1px solid #CD7F32;
+     font-size: 30px;
 }
 
 </style>
