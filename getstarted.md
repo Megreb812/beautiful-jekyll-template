@@ -334,5 +334,4 @@ I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/),
      color: #CD7F32; 
      border-bottom: 1px solid #CD7F32;
 }
-
 </style>
