@@ -243,3 +243,37 @@ This template was not made *entirely* from scratch. I'd like to give special tha
 
 I'd also like to thank [Dr. Jekyll's Themes](https://drjekyllthemes.github.io/), [Jekyll Themes](http://jekyllthemes.org/), and another [Jekyll Themes](http://jekyllrc.github.io/jekyllthemes/) for featuring Beautiful Jekyll in their Jekyll theme directories.
 
+<STYLE>
+.gs-section-01 {
+   background-color: #FFF8E7;
+   border: 3px double #8B7355;
+   padding: 20px;
+   margin: 20px 0;
+}
+
+.gs-section-01 h3 { 
+   color: #9B111E;
+}
+
+.gs-section-02 {
+   background-color: #F5EBD7;
+   border: 3px double #8B4513;
+   padding: 20px;
+   margin: 20px 0;
+}
+
+.gs-section-02 h3 { 
+   color: #CD7F32;
+}
+
+.gs-section-03 {
+   background-color: #FFF8E7;
+   border: 3px double #C19A6B;
+   padding: 20px;
+   margin: 20px 0;
+}
+
+.gs-section-03 h3 { 
+   color: #8B4513;
+}
+</STYLE>
